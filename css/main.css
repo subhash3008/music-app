@@ -1,0 +1,42 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+}
+
+/** sidebar **/
+hr {
+    background-color: #f15025;
+}
+
+.nav-logo {
+    background-color: #f15025;
+}
+
+.no-padding {
+    padding: 0;
+}
+
+.sidebar {
+    border-right: 0.1rem solid #ced0ce;
+    background-color: #ffffff;
+}
+
+.sidebar .list-group-item {
+    border: none;
+}
+
+.nav-color {
+    color: #ced0ce;
+}
+
+.sidebar .nav-btn {
+    border-radius: 2rem;
+    font-size: 1.2rem;
+    background-color: #f15025;
+    color: #353531;
+}
+
+.sidebar .nav-btn:hover {
+    background-color: #353531;
+    color: #f15025 !important;
+}
